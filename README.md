@@ -22,7 +22,7 @@ In the file loop_over_dataset.py, the **"exec_visualization"** is edited to be *
 * Great the instace of open3d point-cloud
 * Convert the point-cloud into 3d
 
-In the file loop_over_dataset.py, the **"exec_visualization"** is edited to be **"exec_visualization = ['show_pcl']"** to display the **point cloud visualization**.
+In the file loop_over_dataset.py, the **"exec_visualization"** is edited to be **"exec_visualization = ['show_pcl']"** to display the **point cloud visualization**. The following are captures of different point clouds with marking of cars and trucks.
 
 ![Figure_2](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_2.png)
 ![Figure_3](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_3.png)
