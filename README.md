@@ -15,3 +15,11 @@ The show_range_image function located in the file objdet_pcl.py is edited, where
 ![Figure_1](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_1.png)
 
 In the file loop_over_dataset.py, the **"exec_visualization"** is edited to be **"exec_visualization = ['show_range_image']"** to display the **range_image**.
+
+### **Visualize lidar point-cloud [ID_S1_EX2] :**
+steps:
+* Initialize th open3d
+* Great the instace of open3d point-cloud
+* Convert the point-cloud into 3d
+
+In the file loop_over_dataset.py, the **"exec_visualization"** is edited to be **"exec_visualization = ['show_pcl']"** to display the **point cloud visualization**.
