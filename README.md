@@ -29,3 +29,7 @@ In the file loop_over_dataset.py, the **"exec_visualization"** is edited to be *
 ![Figure_4](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_4.png)
 ![Figure_5](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_5.png)
 ![Figure_6](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_6.png)
+
+## **Create Birds-Eye View from Lidar PCL :**
+
+### *Convert sensor coordinates to BEV-map coordinates [ID_S2_EX1] :**
