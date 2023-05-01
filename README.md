@@ -12,4 +12,4 @@ When the code is functional, you are supposed to use the viewer to locate and cl
 
 The show_range_image function located in the file objdet_pcl.py is edited, where we can then extract the lidar data from the frame and extract the range image, it is then converted to 8-bit scale.
 
-![Figure_1](InkedScreenshot_5.jpg)
+![Figure_1](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_1.png)
