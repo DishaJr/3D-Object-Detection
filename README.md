@@ -23,3 +23,8 @@ In the file loop_over_dataset.py, the **"exec_visualization"** is edited to be *
 * Convert the point-cloud into 3d
 
 In the file loop_over_dataset.py, the **"exec_visualization"** is edited to be **"exec_visualization = ['show_pcl']"** to display the **point cloud visualization**.
+
+![Figure_2](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_2.png)
+![Figure_3](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_3.png)
+![Figure_4](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_4.png)
+![Figure_5](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_5.png)
