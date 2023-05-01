@@ -8,6 +8,6 @@ When the code is functional, you are supposed to use the viewer to locate and cl
 
 ## **Computing Lidar Point-Cloud from Range Image :**
 
-### **Visualize range image channels (ID_S1_EX1) :**
+### **Visualize range image channels [ID_S1_EX1] :**
 
 
