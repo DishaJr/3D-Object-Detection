@@ -32,4 +32,4 @@ In the file **loop_over_dataset.py**, the **"exec_visualization"** is edited to 
 
 ## **Create Birds-Eye View from Lidar PCL :**
 
-### *Convert sensor coordinates to BEV-map coordinates [ID_S2_EX1] :**
+### **Convert sensor coordinates to BEV-map coordinates [ID_S2_EX1] :**
