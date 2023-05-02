@@ -36,3 +36,5 @@ In the file **loop_over_dataset.py**, the **"exec_visualization"** is edited to 
 **objdet_pcl.py** in **student** folder is edited where a the lidar pcl is made a copy of and transform all metrix into bev-image corrdinates. Elements in lidar are re-arranged by sorting x,y, and -z respectively. Then the intensity value of each unique entry is assigned in lidar_top_pcl to the intensity map. Finally the results are converted to image using OpenCv to got the following results. 
 
 ![Figure_7](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_7.png)
+
+## **Model-based Object Detection in BEV Image :**
