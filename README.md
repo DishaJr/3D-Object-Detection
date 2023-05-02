@@ -42,3 +42,7 @@ In the file **loop_over_dataset.py**, the **"exec_visualization"** is edited to 
 
 ![Figure_8](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_8.png)
 ![Figure_9](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_9.png)
+
+## **Performance Evaluation for Object Detection :**
+Input frames range is set starting from 100 to 150. **exec_visualization** in **loop_over_dataset.py** is edited by adding **'show_detection_performance'** to it. The resulting performance can be seen in the following images.
+
