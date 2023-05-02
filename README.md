@@ -38,3 +38,7 @@ In the file **loop_over_dataset.py**, the **"exec_visualization"** is edited to 
 ![Figure_7](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_7.png)
 
 ## **Model-based Object Detection in BEV Image :**
+**objdet_detect.py** file is edited and, **show_labels_in_image** and **show_objects_and_labels_in_bev**, are added to **exec_visualization** in **loop_over_dataset.py** file. The resulting images are shown below.
+
+![Figure_8](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_8.png)
+![Figure_9](https://github.com/DishaJr/3D-Object-Detection/blob/main/Figure_9.png)
