@@ -9,7 +9,7 @@ When the code is functional, you are supposed to use the viewer to locate and cl
 
 ## **Computing Lidar Point-Cloud from Range Image :**
 
-### **--> Visualize range image channels [ID_S1_EX1] :**
+### **--> Visualize range image channels :**
 
 The show_range_image function located in the file objdet_pcl.py is edited, where we can then extract the lidar data from the frame and extract the range image, it is then converted to 8-bit scale.
 
@@ -17,7 +17,7 @@ The show_range_image function located in the file objdet_pcl.py is edited, where
 
 In the file **loop_over_dataset.py**, the **"exec_visualization"** is edited to be **"exec_visualization = ['show_range_image']"** to display the **range_image**.
 
-### **--> Visualize lidar point-cloud [ID_S1_EX2] :**
+### **--> Visualize lidar point-cloud :**
 **Steps:**
 * Initialize th open3d
 * Great the instace of open3d point-cloud
@@ -33,4 +33,4 @@ In the file **loop_over_dataset.py**, the **"exec_visualization"** is edited to 
 
 ## **Create Birds-Eye View from Lidar PCL :**
 
-### **Convert sensor coordinates to BEV-map coordinates [ID_S2_EX1] :**
+### **Convert sensor coordinates to BEV-map coordinates :**
